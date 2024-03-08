@@ -1,0 +1,371 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.headerbg{
+  background-color: #f85606;
+ 
+}
+.hlogo{
+  width: 150px;
+  height: 50px;
+
+}
+.hinput{
+  width: 700px;
+  border-radius: 13px;
+  
+}
+.search{
+  margin-left: -7.8%;
+  background-color: #ffe1d2;
+  color:#f85606 ;
+  border: none;
+  font-size: 13px;
+margin-top:4px ;
+margin-bottom:4px ;
+}
+.login{
+  height:20px ;
+  width: 20px;
+
+}
+.headerend{
+  font-weight: 600;
+  font-size: 15px;
+  margin-left: -6%;
+ 
+}
+.wlogo{
+  height: 23px;
+  width:23px;
+}
+.h:hover{
+  background-color: #3030324e;
+  border-radius: 5px;
+}
+.cart{
+  font-size: 32px;
+  cursor: pointer;
+
+
+}
+  /*///////// carazol part start/////////*/
+.cara{
+  width: 95%;
+  margin: auto;
+  
+}
+
+.cc{
+  margin-top: 8.7%;
+}
+.ww{
+  height: 350px;
+}
+.delivery{
+  background-color: #fff0e0;
+  cursor: pointer;
+  height: 50px;
+  border-radius: 15px;
+}
+.delivery:hover{
+ background-color:#e3dfdb ;
+ border-radius: 15px ;
+}
+.long{
+  font-size: 14px;
+
+}
+.long1{
+  font-size: 12px;
+
+}
+
+.ts{
+  margin-left: 4px;
+
+}
+.tss{
+  margin-left: 4px;
+  font-size: 15px;
+}
+.tss1{
+  margin-left: 4px;
+  font-size: 12px;
+}
+.national{
+  margin-left: 3px;
+  font-size: 13px;
+}
+.imgie{
+  height: 80px;
+  width: 80px;
+  
+  
+}
+.ptt{
+  margin-left: 15px;
+  font-size: 14px;
+  color:  #d1c9c9; ;
+ 
+}
+.round{
+  width: 95%;
+}
+.ppp{
+  border: 0px solid black;
+  padding: 11px;
+  border-radius: 20px;
+  background-color: white;
+  width: 95%;
+  margin: auto;
+  height: 125px;
+}
+/*/////// cards//////*/
+.flas{
+margin-left: 3%;
+ color:  #7c7a7f;
+ 
+}
+
+.cards{
+border: 0px solid black;
+width: 95%;
+background-color: white;
+border-radius: 15px;
+}
+.onsale{
+  list-style: none;
+}
+.li11{
+  margin-top: 20px;
+  color:  #f85606;
+  font-weight: 500;
+}
+.li111{
+  margin-left: 78%;
+  margin-top:20px ;
+ 
+  border: 4px ;
+  
+  
+}
+.shop{
+  width: 140px;
+  font-size: 16px;
+  font-weight: 500;
+  background: transparent;
+  color: #f85606;
+  border: 2px solid  #f85606;
+}
+.cardss{
+  margin-left: -0%;
+  border: none;
+ width: 120%;
+  border: 1px solid whitesmoke;
+}
+.titletext{
+  margin-left: -23%;
+  font-weight: 600;
+}
+.paratext{
+  margin-left: -73%;
+  color: #f85606;
+  font-weight: 600;
+  cursor: pointer;
+}
+.parat3{
+  margin-left: -55%;
+  color: gray;
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: -6%;
+}
+.spant{
+  color: #f85606;
+  font-weight: 600;
+  font-size: 15px;
+  margin-left: 3px;
+}
+.side{
+   border: 2px solid rgb(211, 212, 213);
+   border-radius: 15px;
+   background-color: white;
+
+}
+/* .side ul{
+  list-style: none;
+} */
+.i{
+ margin-right: 9px;
+}
+.lip:hover{
+  background-color: #58555b49;
+  color: orangered;
+  border-radius: 4px;
+
+}
+
+
+/*//////Categories///////*/
+.heading0{
+  margin-left: 3.5%;
+  color: #767578;
+}
+.headingc{
+  width: 95%;
+  margin: auto;
+}
+.w{
+  width: 90px;
+  height: 90px;
+margin-top: 7%;
+ 
+}
+.hr1{
+  height: 2px;
+  margin-top: -0;
+  width: 93.0%;
+  margin-left: 3.4%;
+  
+}
+.w1{
+  width: 145px;
+  height: 140px;
+  border-right: 1px solid rgb(181, 178, 178);
+  background: white;
+}
+.w11{
+  width: 145px;
+  height: 140px;
+  border-right: 1px solid rgb(181, 178, 178);
+  background: white;
+  margin-top: -1.5%;
+}
+.w2{
+  width: 90px;
+  height: 90px;
+  margin-top: 7%;
+ 
+}
+.e{
+  border-right: none;
+}
+.ctt{
+margin-top: 7px;
+padding-left:2px ;
+padding-right:2px ;
+font-size: 15px;
+font-weight: 400;
+}
+.ct{
+  margin-top: 7px;
+padding-left:2px ;
+padding-right:2px ;
+font-size: 15px;
+font-weight: 400;
+}
+.w11:hover{
+ border:4px solid  whitesmoke;
+
+}
+.w1:hover{
+  border:4px solid  whitesmoke;
+ 
+ }
+ /*////////////////just for you part//////////////////////////*/
+ .just{
+  margin-left: 3.3%;
+  color: #767578;
+ }
+ .js{
+  width: 95%;
+  margin-top: auto;
+ }
+ .stars{
+  color:orange;
+  margin-left: -12%;
+  font-size: 12px;
+  cursor: pointer;
+
+ }
+.cardss:hover{
+  border: 3px solid gainsboro;
+}
+.load{
+  width: 40%;
+  font-size: 20px;
+  font-weight: 500;
+  
+}
+.js{
+  border: 4px  white;
+  background-color:rgb(250, 250, 250);
+  border-radius: 4px;
+}
+.span1{
+  margin-top: 1.2%;
+ font-size: 40px;
+ color: #ebebeb;
+}
+.rt{
+  margin-top: 4px;
+  font-weight: 400;
+}
+.rt:hover{
+  color: orange;
+  cursor: pointer;
+ 
+}
+.pp{
+  color: #f85606;
+  border-color: #f85606;
+}
+/*/////////////////FFFFFFooooooooooTTTTTTTTTTTEEEEEEEEEEERRRRRRRRRRR/////////////////*/
+.ftr{
+  background-color:#f5f5f5;
+width: 95%;
+margin: auto;
+}
+.uf{
+  list-style: none;
+}
+.uf li a{
+  text-decoration: none;
+display: flex;
+color: black;
+
+}
+.uf li a:hover{
+  text-decoration: underline;
+
+}
+.cus{
+  margin-left: -34%;
+  color: #f85606;
+}
+.dar{
+  margin-left: -76%;
+  color: #f85606;
+}
+.imagee{
+  width: 100%;
+  margin-top: -7%;
+  cursor: pointer;
+}
+.imageee{
+  width: 100%;
+  margin-top: -3%;
+  cursor: pointer;
+}
